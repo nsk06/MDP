@@ -1,3 +1,3 @@
 # MDP
-See [problem]()for problem details
-For the Solution explanation see [report]()
+1. See [problem]() for problem details
+2. For the Solution explanation see [report]()
